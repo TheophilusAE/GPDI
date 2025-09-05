@@ -1,0 +1,17 @@
+node_modules
+vendor
+storage
+bootstrap/cache
+.env
+.env.example
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.git
+.gitignore
+README.md
+DEPLOYMENT.md
+tests
+phpunit.xml
